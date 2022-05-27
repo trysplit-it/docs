@@ -8,4 +8,4 @@ permalink: /guidelines
 
 # Guidelines
 
-Guidelines on everything we do from code style to interacting on social media.
+Guidelines on everything we do from code style to interacting on social media. {: .fs-6 .fw-300 }

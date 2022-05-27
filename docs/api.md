@@ -6,7 +6,7 @@ permalink: /api
 ---
 # API Reference
 
-Our API can be accessed from our domain at these endpoints.
+Our API can be accessed from our domain at these endpoints. {: .fs-6 .fw-300 }
 
 ## Events
 

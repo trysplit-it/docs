@@ -9,4 +9,4 @@ permalink: /tutorials
 # Tutorials
 
 Welcome to the team! These set of tutorials will attempt to teach you everything you need to know about
-our tech stack, as well as teach you some basics like best practices for GitHub.
+our tech stack, as well as teach you some basics like best practices for GitHub. {: .fs-6 .fw-300 }

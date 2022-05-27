@@ -8,4 +8,4 @@ permalink: /about
 
 # About
 
-Everything about us: Who we are, what we do, and why we do it.
+Everything about us: Who we are, what we do, and why we do it. {: .fs-6 .fw-300 }
