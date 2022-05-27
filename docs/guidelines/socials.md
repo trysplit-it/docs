@@ -5,3 +5,5 @@ parent: Guidelines
 nav_order: 2
 permalink: /guidelines/socials
 ---
+
+# Social Media Guidelines
