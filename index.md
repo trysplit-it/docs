@@ -6,8 +6,6 @@ description: "Split.it Documentation Homepage"
 permalink: /
 ---
 
-# Split.it
-
 ![logo](./docs/assets/logo.png)
 
 Cost-pooling made easy! Hopkins may be expensive, but life doesn't have to be.
