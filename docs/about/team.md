@@ -3,6 +3,7 @@ layout: default
 title: The team
 parent: About
 nav_order: 2
+permalink: /about/team
 ---
 
 # Meet the team!
