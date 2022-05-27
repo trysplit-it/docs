@@ -1,6 +1,7 @@
 ---
 layout: default
-title: asdfasdfasdf
+title: Using GitHub
 parent: Tutorials
 nav_order: 3
 ---
+
