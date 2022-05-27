@@ -8,7 +8,7 @@ permalink: /
 
 # Split.it
 
-![logo](./assets/logo.png)
+![logo](./docs/assets/logo.png)
 
 Cost-pooling made easy! Hopkins may be expensive, but life doesn't have to be.
 

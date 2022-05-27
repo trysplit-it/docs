@@ -6,7 +6,7 @@ nav_order: 2
 permalink: /tutorials/github
 ---
 
-# **❗❗ YOU HAVE BEEN WARNED: NEVER PUSH TO MAIN. ❗❗**
+# **❗❗ WARNING: NEVER PUSH TO MAIN. ❗❗**
 
 # How to use GitHub
 
@@ -23,4 +23,4 @@ This tutorial aims to catch you up to speed on using GitHub effectively for our 
 
 TODO
 
-# **❗❗ YOU HAVE BEEN WARNED: NEVER PUSH TO MAIN. ❗❗**
+# **❗❗ WARNING: NEVER PUSH TO MAIN. ❗❗**
