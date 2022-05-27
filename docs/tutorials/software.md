@@ -13,7 +13,7 @@ Which software do we use? What do I need? Which is the best? These are all quest
 
 For web dev, there two main things that you *definitely* need: a **browser** and a **text editor**.
 
-For our project, we highly recommend using **(Chrome)[https://www.google.com/chrome/downloads/]** and **(Visual Studio Code)[https://code.visualstudio.com/]**. Both can be downloaded from the links provided.
+For our project, we highly recommend using **[Chrome](https://www.google.com/chrome/downloads/)** and **[Visual Studio Code](https://code.visualstudio.com/)**. Both can be downloaded from the links provided.
 
 ### Chrome
 
@@ -21,4 +21,4 @@ The main reason why we want you to use Chrome is because it has integrated devel
 
 You can access these developer tools by `Right Click` and clicking `Inspect`. If you prefer keyboard shortcuts, they are `Cmd+Option+I` on Mac and `F12` on windows.
 
-![Inspect](/assets/inspect.png)
+![Inspect](./assets/inspect.png)
