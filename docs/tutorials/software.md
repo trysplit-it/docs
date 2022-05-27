@@ -21,4 +21,4 @@ The main reason why we want you to use Chrome is because it has integrated devel
 
 You can access these developer tools by `Right Click` and clicking `Inspect`. If you prefer keyboard shortcuts, they are `Cmd+Option+I` on Mac and `F12` on windows.
 
-![Inspect](./assets/inspect.png)
+![Inspect](../assets/inspect.png)
