@@ -8,4 +8,5 @@ permalink: /tutorials
 
 # Tutorials
 
-Tutorials on everything we do from using github to sockets.
+Welcome to the team! These set of tutorials will attempt to teach you everything you need to know about
+our tech stack, as well as teach you some basics like best practices for GitHub.
