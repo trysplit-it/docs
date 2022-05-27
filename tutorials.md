@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tutorials
+nav_order: 2
+---
+
 # Onboarding Tutorials
 
 [SSO](https://docs.google.com/document/d/18d-ATBFRPQgnkIJ9_0eYoTHYYSHqcg0I-190FJuEXLw/edit)

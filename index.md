@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Split.it Documentation Homepage"
+permalink: /
+---
+
 # Split.it
 
 Cost-pooling made easy! Hopkins may be expensive, but life doesn't have to be.
