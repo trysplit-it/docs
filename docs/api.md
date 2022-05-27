@@ -7,7 +7,7 @@ nav_order: 3
 
 Our API can be accessed from our domain at these endpoints.
 
-### Events
+## Events
 
 Our Events are JSON Objects that contain basic information about any upcoming trips. The fields of this object are listed below, along with their types and hyperparameters:
 
@@ -38,7 +38,7 @@ Our Events are JSON Objects that contain basic information about any upcoming tr
 | address   | String | Address of the destination location.             |
 | location  | Array  | Array of numbers (2) to specify the coordinates. |
 
-#### Event Routing
+### Event Routing
 
 Here is a summary of all of our routes for events. Note that all of these events are exclusive to requests with a bearer token.
 
@@ -132,7 +132,7 @@ req.params = { id }
 | 404  | Error: event does not exist              |
 
 
-### Users
+## Users
 
 Our Users are JSON Objects that contain information extracted from SSO and the events that the users own/joined. None of these routes (except PUT) can actually be accessed by users, as they are only for administrative purposes. The fields of this object are listed below, along with their types and hyperparameters:
 
@@ -145,7 +145,7 @@ Our Users are JSON Objects that contain information extracted from SSO and the e
 | eventsOwned   | Array   | Array of Event Objects. **required.**            |
 | eventsJoined  | Array   | Array of Event Objects. **required.**            |
 
-#### User Routing
+### User Routing
 
 | Request | Route          | Auth         | Description                         |
 | ------- | -------------- | ------------ | ----------------------------------- |
@@ -209,11 +209,11 @@ PUT /api/users/
 | 200  | Single User object     |
 | 403  | Invalid/missing token  |
 
-### SSO
+## SSO
 
 Our SSO utilizes 4 endpoints, three for authentication with an external server (JHU) and one for token verification.
 
-#### SSO Routing
+### SSO Routing
 
 Here is a summary of all our routes for SSO and tokenization.
 

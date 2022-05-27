@@ -25,16 +25,3 @@ Cost-pooling made easy! Hopkins may be expensive, but life doesn't have to be.
 ### MOBILE (download as PWA):
 1. On IOS, navigate to our app's website **in the Safari browser**, tap on the share button, and tap add to homescreen. You're done!
 2. On Android, navigate to our app's website **in the Chrome browser**, and tap install, and follow the on-screen instructions.
-
-## About Us!
-
-Hi! We are team MADOOSE, a group of JHU students who are dedicated to improving the quality of life for students on campus.
-
-Members:
-
-- Justin Waltrip
-- Kevin Kim
-- Kyuhee Jo
-- Mason Albert
-- Sara Ren
-- Tony Ho
