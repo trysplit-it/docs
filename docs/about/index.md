@@ -7,4 +7,4 @@ has_children: true
 
 # About
 
-{: .fs-6 .fw-300 }
+{:toc}
