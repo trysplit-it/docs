@@ -3,7 +3,10 @@ layout: default
 title: Using GitHub
 parent: Tutorials
 nav_order: 2
+permalink: /tutorials/github
 ---
+
+# **❗❗ YOU HAVE BEEN WARNED: NEVER PUSH TO MAIN. ❗❗**
 
 # How to use GitHub
 
@@ -17,3 +20,7 @@ This tutorial aims to catch you up to speed on using GitHub effectively for our 
 - **Merge** is a term for when you take one branch's code and copy it into another, along with some special **Git** magic.
 - **Pull Request (PR)** is a term for a request you can make on **GitHub** to automatically **merge** a branch into another.
 - **Merge Conflict** is a term for when the automated system cannot account for certain changes, usually when the same line of code is changed in different ways.
+
+TODO
+
+# **❗❗ YOU HAVE BEEN WARNED: NEVER PUSH TO MAIN. ❗❗**
