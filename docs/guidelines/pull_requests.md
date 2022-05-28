@@ -8,4 +8,8 @@ permalink: /guidelines/prs
 
 # Making Pull Requests
 
-TODO
+- Always reference issues being closed using the `closes` keyword:
+
+    ```
+    closes #44
+    ```
