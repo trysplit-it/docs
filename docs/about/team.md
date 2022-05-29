@@ -14,7 +14,7 @@ We are team MADOOSE, a group of students dedicated to making college experience 
 
 ### Justin Waltrip
 **Role(s):** Technical Lead  
-**Bio:** TODO
+**Bio:** Hi everyone, I'm Justin.  I deal with a little bit of everything but focus on frontend development and full-stack integration.
 
 ### Kevin Kim
 **Role(s):** Technical Lead  
