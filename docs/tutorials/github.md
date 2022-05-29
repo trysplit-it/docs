@@ -87,7 +87,7 @@ This structure implies that `main` has two branches, `iteration-01` and `iterati
 
 ## Making Pull Requests (PRs)
 
-To make a PR, you need to be on the GitHub site. When you make a branch, then commit any changes to it, you'll see a message that pops up like this:
+To make a PR, you need to be on the GitHub site. When you make a branch and commit any changes to it, you'll see a message that pops up like this:
 
 ![prpopup](../assets/prpopup.png)
 
