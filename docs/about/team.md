@@ -34,7 +34,7 @@ We are team MADOOSE, a group of students dedicated to making college experience 
 
 ### Tony Ho
 **Role(s):** Technical Lead  
-**Bio:** TODO
+**Bio:** Hi everyone, my name name is Tony. Over the course of the project, I'm worked primarily on the backend of our website and setup the basic emailing notification system. 
 
 ## Members
 
