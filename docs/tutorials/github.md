@@ -99,6 +99,6 @@ Both of these options will eventually lead to this screen:
 
 ![prcreationscreen](../assets/prcreationscreen.png)
 
-From here, **make sure you are merging to the correct branch.** The `base` branch should be the branch you are *merging to*, and the `compare` branch should be the branch you are making a request for. Once you are certain these branches are correct, add your mentor as a reviewer. Click `Create pull request`, and you are done!
+From here, **make sure you are merging to the correct branch.** The `base` branch should be the branch you are *merging to*, and the `compare` branch should be the branch you are making a request for. Once you are certain these branches are correct, add your mentor as a reviewer. Make sure you fill in the comments as according to our [PR guidelines](https://trysplit-it.github.io/docs/guidelines/prs). Click `Create pull request`, and you are done!
 
 # **❗❗ WARNING: NEVER PUSH TO MAIN. ❗❗**
