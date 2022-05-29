@@ -34,11 +34,14 @@ Infringements are defined as follows:
             Remarks that are not, in nature, positive. All interactions with the public-facing media must be positive and in line with our image as an exciting startup company. Any form of negativity is not permissible. Neutral comments that attempt to clarify or answer questions must be packaged as positively as possible. If interactions are unnecessarily short (one word replies), use widely inconsistent syntax, or no attempt is made for positivity, it will be considered a violation of this section.
         </li>
     </ol>
-**By typing your full legal name below, you have agreed upon all these conditions and also have carefully read each word written in this document**. You will then be bound to these terms when interacting with public-facing media on any organizational account or activity. A violation of the rules above will also be a violation of this contract, which will result in the consequences listed above. Maintaining our image is a crucial part in our marketing process, and a violation of these terms will be viewed as intentionally hindering our progress on our project.
 
-| Full Legal Name | Date of Signature |
-| --------------- | ----------------- |
-| Kevin Kim       | May 23, 2022      |
-| Sara Ren        | May 24, 2022      |
-| Steven Simpson  | May 24, 2022      |
-| Justin Waltrip  | May 28, 2022      |
+<!--
+    **By typing your full legal name below, you have agreed upon all these conditions and also have carefully read each word written in this document**. You will then be bound to these terms when interacting with public-facing media on any organizational account or activity. A violation of the rules above will also be a violation of this contract, which will result in the consequences listed above. Maintaining our image is a crucial part in our marketing process, and a violation of these terms will be viewed as intentionally hindering our progress on our project.
+
+    | Full Legal Name | Date of Signature |
+    | --------------- | ----------------- |
+    | Kevin Kim       | May 23, 2022      |
+    | Sara Ren        | May 24, 2022      |
+    | Steven Simpson  | May 24, 2022      |
+    | Justin Waltrip  | May 28, 2022      |
+-->
