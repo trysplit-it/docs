@@ -18,7 +18,7 @@ We are team MADOOSE, a group of students dedicated to making college experience 
 
 ### Kevin Kim
 **Role(s):** Technical Lead  
-**Bio:** TODO
+**Bio:** Hi! I'm Kevin. I'm generally responsible for the larger architecture, such as this documentation site, integration with external services (JHU SSO, Venmo, Uber/Lyft, etc.), and deployment. I also work on the backend of our website. I really, really, really like green tea.
 
 ### Kyuhee Jo
 **Role(s):** Technical Lead  
