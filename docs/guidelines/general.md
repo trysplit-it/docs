@@ -19,7 +19,7 @@ Here we outline some of the general expectations of being a member of our team.
 
 ### Behavior
 
-- We use Slack as our primary method of  communication. Text messages are okay if it's urgent.
+- We use Slack as our primary method of communication. Text messages are okay if it's urgent.
 
 - It's important to participate in weekly team meetings.  If you aren't able to make it, please let the team know beforehand.
 

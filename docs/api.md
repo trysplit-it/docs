@@ -20,7 +20,7 @@ Our Events are JSON Objects that contain basic information about any upcoming tr
 | departure     | Object | Contents specified below. **required.**        |
 | destination   | Object | Contents specified below. **required.**        |
 | owner         | User   | The owner of the event. **required.**          |
-| notes         | String | Any notes by the owner. **required.**          |
+| notes         | String | Any notes by the owner. *Default: ""*          |
 | capacity      | Number | The total capacity of the event. **required.** |
 
 **Departure Object:**
@@ -175,7 +175,6 @@ GET /api/users
 | Code | Response               |
 | ---- | ---------------------- |
 | 200  | Single User object     |
-| 200  | TODO                   |
 | 403  | Invalid/missing token  |
 
 ```
