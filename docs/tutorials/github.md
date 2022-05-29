@@ -44,9 +44,10 @@ Git allows users to create *branches* of their code, so that you can commit and 
 ### Checking your branch
 
 When you `cd` into a repository, you can use the command:
+
 `git branch`
 
-Which will show you the branch you are on, and all other branches that you have on your local machine.
+Which will show you the branch you are on, and all other branches that you have on your local machine. Before you make any changes, **make sure you are on the branch you intend to change.** For your reference, **you may not directly make changes to the main branch.** If you do, you will be struck by lightning on the spot and disappear from existence.
 
 ### Switching branches
 
@@ -88,6 +89,16 @@ This structure implies that `main` has two branches, `iteration-01` and `iterati
 
 To make a PR, you need to be on the GitHub site. When you make a branch, then commit any changes to it, you'll see a message that pops up like this:
 
-asdf
+![prpopup](../assets/prpopup.png)
+
+If you don't see this pop-up, you can also create your branch manually by going into the `Pull requests` tab, clicking on `New pull request`, and selecting your branch as the *compare* branch:
+
+![prmanual](../assets/prmanual.png)
+
+Both of these options will eventually lead to this screen:
+
+![prcreationscreen](../assets/prcreationscreen.png)
+
+From here, **make sure you are merging to the correct branch.** The `base` branch should be the branch you are *merging to*, and the `compare` branch should be the branch you are making a request for. Once you are certain these branches are correct, add your mentor as a reviewer. Click `Create pull request`, and you are done!
 
 # **❗❗ WARNING: NEVER PUSH TO MAIN. ❗❗**
