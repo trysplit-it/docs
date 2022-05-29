@@ -44,5 +44,5 @@ Infringements are defined as follows:
     | Sara Ren        | May 24, 2022      |
     | Steven Simpson  | May 24, 2022      |
     | Justin Waltrip  | May 28, 2022      |
-    | Tony Ho         | May 28, 2022      |
+
 -->
