@@ -27,11 +27,17 @@ You should already know how this works, but here's what you should do, just in c
 
 After you are satisfied with your changes locally, here are the things you should do (in your terminal/console):
 
-`git add [FILENAME]`. If you changed multiple files, then `git add .` will work to add all your files at once.
+`git add [FILENAME]`
 
-`git commit -m "[YOUR MESSAGE]"`. This will commit your changes locally, with the commit message being what you choose it to be. Be descriptive.
+If you changed multiple files, then `git add .` will work to add all your files at once.
 
-`git push`. This will push your changes to the remote repository.
+`git commit -m "[YOUR MESSAGE]"`
+
+This will commit your changes locally, with the commit message being what you choose it to be. Be descriptive.
+
+`git push`
+
+This will push your changes to the remote repository.
 
 Alternatively, if you have [Visual Studio Code](https://code.visualstudio.com/), all of this can be done in a few button clicks. Up to you to decide which one is more convenient!
 
