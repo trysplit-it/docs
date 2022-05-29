@@ -19,8 +19,18 @@ Here we outline some of the general expectations of being a member of our team.
 
 ### Behavior
 
-- Use Slack for all communications. Text messages are okay if it's urgent.
-- Participate in team meetings. We expect you to participate in team meetings, and if you aren't able to make it, we expect to be told beforehand.
+- We use Slack as our primary method of  communication. Text messages are okay if it's urgent.
+
+- It's important to participate in weekly team meetings.  If you aren't able to make it, please let the team know beforehand.
+
+    - To schedule meetings, we use [Rallly](https://rallly.co/).
+
+    - To view meeting details, we use Google Calendar.
+
+    - To participate in virtual meetings, we use Zoom.
+
 - Report any problems that may lead to roadblocks with other sections of the project.
+
 - Respect Kevin always, unconditionally. 😊
+
 - Also, don't push to main.
