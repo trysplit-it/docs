@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dev software
+title: Development software
 parent: Tutorials
 nav_order: 1
 permalink: /tutorials/software
