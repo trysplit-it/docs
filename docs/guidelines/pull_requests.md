@@ -13,3 +13,7 @@ permalink: /guidelines/prs
     ```
     closes #44
     ```
+
+- Never merge your pull request without getting approval. This also will be explicitly disallowed through GitHub.
+
+- Try not to push buggy code, especially if other people will branch from yours.
