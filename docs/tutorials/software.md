@@ -36,6 +36,12 @@ Visual Studio Code, or VSCode, is a lightweight text editor that has an integrat
 
 Depending on the work you are doing, you may also require other software. iOS development, for example, needs to happen in other environments. Backend people need other software to test their endpoints. Whatever it is, there are other things that just help our process dramatically.
 
+### React Developer Tools
+
+React Developer Tools is a Chrome DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies in the Chrome Developer Tools.  It is very useful for frontend development to manage component styling.
+
+![React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+
 ### Postman
 
 *Page still under construction.*
