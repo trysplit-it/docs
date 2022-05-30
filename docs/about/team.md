@@ -51,5 +51,5 @@ We are team MADOOSE, a group of students dedicated to making college experience 
 **Bio:** TODO
 
 ### Taiming Shi
-**Role(s):** Member  
-**Bio:** TODO
+**Role(s):** Full-stack Developer 
+**Bio:** Hi I'm Taiming! New to the team, excited to work with everyone!
