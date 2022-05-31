@@ -39,17 +39,17 @@ We are team MADOOSE, a group of students dedicated to making college experience 
 ## Members
 
 ### Jake Rasmussen
-**Role(s):** Member  
+**Role(s):** iOS Developer, Member  
 **Bio:** Hey! My name is Jake Rasmussen, and I am a sophomore. I am working on the iOS development team to help bring Split.it to iPhones. I love working with front-end development, so I am very excited to be on this project!
 
 ### Simonne Ponce
-**Role(s):** Member  
+**Role(s):** QA Analyst, iOS Developer, Member  
 **Bio:** Hi! I’m Simonne. I primarily focus on quality assurance and iOS development. I really enjoy bike riding and playing chess during my free time.
 
 ### Steven Simpson
-**Role(s):** Member  
+**Role(s):** Social Media Manager, Member  
 **Bio:** Hello! I'm Steven. I come from a strong background in marketing communications and am currently focused on social media management. I have a passion for expressive storytelling, but on the side, I enjoy the outdoors through backpacking and kayaking.
 
 ### Taiming Shi
-**Role(s):** Full-stack Developer 
+**Role(s):** Full-stack Developer, Member  
 **Bio:** Hi I'm Taiming! New to the team, excited to work with everyone!
