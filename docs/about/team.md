@@ -44,7 +44,7 @@ We are team MADOOSE, a group of students dedicated to making college experience 
 
 ### Simonne Ponce
 **Role(s):** Member  
-**Bio:** TODO
+**Bio:** Hi! I’m Simonne. I primarily focus on quality assurance and iOS development. I really enjoy bike riding and playing chess during my free time.
 
 ### Steven Simpson
 **Role(s):** Member  
