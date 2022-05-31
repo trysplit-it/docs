@@ -30,7 +30,7 @@ We are team MADOOSE, a group of students dedicated to making college experience 
 
 ### Sara Ren
 **Role(s):** Technical Lead  
-**Bio:** TODO
+**Bio:** Hey everyone! I'm Sara. I've been contributing mainly in frontend development and backend testing, and manage a lot of the non-coding work. I hope we've made your city exploration somewhat easier :)
 
 ### Tony Ho
 **Role(s):** Technical Lead  
