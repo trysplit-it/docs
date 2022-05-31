@@ -40,7 +40,7 @@ We are team MADOOSE, a group of students dedicated to making college experience 
 
 ### Jake Rasmussen
 **Role(s):** Member  
-**Bio:** TODO
+**Bio:** Hey! My name is Jake Rasmussen, and I am a sophomore. I am working on the iOS development team to help bring Split.it to iPhones. I love working with front-end development, so I am very excited to be on this project!
 
 ### Simonne Ponce
 **Role(s):** Member  
