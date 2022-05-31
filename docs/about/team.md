@@ -48,7 +48,7 @@ We are team MADOOSE, a group of students dedicated to making college experience 
 
 ### Steven Simpson
 **Role(s):** Member  
-**Bio:** TODO
+**Bio:** Hello! I'm Steven. I come from a strong background in marketing communications and am currently focused on social media management. I have a passion for expressive storytelling, but on the side, I enjoy the outdoors through backpacking and kayaking.
 
 ### Taiming Shi
 **Role(s):** Member  
