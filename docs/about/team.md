@@ -26,7 +26,7 @@ We are team MADOOSE, a group of students dedicated to making college experience 
 
 ### Mason Albert
 **Role(s):** Technical Lead  
-**Bio:** TODO
+**Bio:** Hey everyone, I'm Mason. So far, I've been working on the backend, including the set up and general maintenance, and the event search/filtering. In my free time, I enjoy playing ice hockey, as well as chess.
 
 ### Sara Ren
 **Role(s):** Technical Lead  
