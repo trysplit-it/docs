@@ -22,7 +22,7 @@ We are team MADOOSE, a group of students dedicated to making college experience 
 
 ### Kyuhee Jo
 **Role(s):** Technical Lead  
-**Bio:** My name is Kyuhee Jo, a senior CS student (oldest!) at the Johns Hopkins University. I’ve been handling mobile frontend development and wireframe mockups. I like cooking and swimming! (e
+**Bio:** My name is Kyuhee Jo, a senior CS student (oldest!) at the Johns Hopkins University. I’ve been handling mobile frontend development and wireframe mockups. I like cooking and swimming!
 
 ### Mason Albert
 **Role(s):** Technical Lead  
