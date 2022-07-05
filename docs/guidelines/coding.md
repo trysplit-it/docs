@@ -73,3 +73,64 @@ permalink: /guidelines/code
     ```
     onClick={() => navigate(“/login”)}
     ```
+
+## React
+
+Here is an example file which has been properly formatted:
+
+```
+import { Box, Grid } from "@mui/material";
+import { useState, useEffect } from "react";
+
+// local
+import EventsContext from '../contexts/EventsContext';
+
+
+function MyComponent(props) {
+    const { title } = props;
+
+    // events context
+    const eventsContext = useContext(EventsContext);
+    let { events } = eventsContext;
+
+    // states
+    const [state, setState] = useState(null);
+
+    // effects
+    useEffect(() => {
+        console.log("test");
+    }, []);
+
+    // functions
+    function foo(bar) {
+        return bar;
+    }
+
+
+    render(
+        <>
+            <Box>
+                <Grid container item sx={{
+                    width: "100%",
+                }}>
+                    <Grid item>
+                        <Box/>
+                    </Grid>
+                    <Grid item>
+                        <Box>
+                            {title}
+                        </Box>
+                    </Grid>
+                </Grid>
+            </Box>
+        </>
+    );
+}
+
+export default MyComponent;
+
+MyComponent.props = {
+    title: Props.string.required,
+};
+
+```
