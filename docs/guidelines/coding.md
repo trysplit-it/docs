@@ -73,3 +73,21 @@ permalink: /guidelines/code
     ```
     onClick={() => navigate(“/login”)}
     ```
+
+## React
+
+- Code should be organized into the following sections:
+
+    1. External Imports (no comment)
+    2. Local Imports (`// local`)
+    3. CSS Imports (`// styles`)
+    4. Constants (`// constants`)
+    5. Global Variables (`// global`) <-- try to avoid if possible
+    6. Component Definition (no comment)
+    7. Props Destructuring (no comment)
+    8. Hooks (`// hooks`)
+    9. States (`// states`)
+    10. Effects (`// effects`)
+    11. Functions (`// functions`)
+    12. Return (no comment)
+    13. Prop Types (no comment)
