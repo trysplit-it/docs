@@ -100,6 +100,13 @@ req.body = { title, startDate, departure, owner, notes, capacity }
 | 400  | Error: No departure specified             |
 | 400  | Error: No destination specified           |
 | 400  | Error: Capacity less than 2               |
+| 400  | Error: Event must be in this or next year |
+| 400  | Error: Must be day in advance             |
+| 400  | Error: Notes more than 250 char           |
+| 400  | Error: Title more than 50 char            |
+| 400  | Error: Inappropriate title                |
+| 400  | Error: Inappropriate destination          |
+| 400  | Error: Inappropriate departure            |
 | 403  | Invalid/missing token                     |
 
 ```
@@ -128,8 +135,17 @@ req.params = { id }
 | 400  | Error: add and remove simultaneous call  |
 | 400  | Error: user not registered               |
 | 400  | Error: User updating event not provided  |
+| 400  | Error: Capacity less than 2              |
+| 400  | Error: Inappropriate title               |
+| 400  | Error: Inappropriate destination         |
+| 400  | Error: Inappropriate departure           |
+| 400  | Error: Inappropriate note                |
+| 400  | Error: Event must be in this or next year|
+| 400  | Error: Must be day in advance            |
 | 403  | Error: Only owner can update event       |
 | 403  | Invalid/missing token                    |
+| 403  | Error: event already expired             |
+| 403  | Error: event in less than 24 hours       |
 | 404  | Error: event does not exist              |
 
 
@@ -145,6 +161,8 @@ Our Users are JSON Objects that contain information extracted from SSO and the e
 | isAdmin       | Boolean | Self-explanatory. **required.** *defalult:false* |
 | eventsOwned   | Array   | Array of Event Objects. **required.**            |
 | eventsJoined  | Array   | Array of Event Objects. **required.**            |
+| subscribed    | Boolean | Subscribed to email notifications. **required.** |
+| venmo         | String  | Venmo username. **required.**                    |
 
 ### User Routing
 
@@ -176,6 +194,8 @@ GET /api/users
 | ---- | ---------------------- |
 | 200  | Single User object     |
 | 403  | Invalid/missing token  |
+| 404  | No user with ID        |
+
 
 ```
 POST /api/users
@@ -183,10 +203,16 @@ POST /api/users
 req.body = { username, jhed, email }
 ```
 
-| Code | Response               |
-| ---- | ---------------------- |
-| 201  | Single User object     |
-| 403  | Invalid/missing token  |
+| Code | Response                                 |
+| ---- | ---------------------------------------- |
+| 201  | Single User object                       |
+| 400  | Error: Missing/invalid jhed              |
+| 400  | Error: Missing username                  |
+| 400  | Error: Missing email                     |
+| 400  | Error: Missing venmo username            |
+| 400  | Error: Profane username                  |
+| 400  | Error: Username over 20 characters       |
+| 403  | Invalid/missing token                    |
 
 ```
 DELETE /api/users/:id
@@ -204,10 +230,12 @@ PUT /api/users/
 
 ```
 
-| Code | Response               |
-| ---- | ---------------------- |
-| 200  | Single User object     |
-| 403  | Invalid/missing token  |
+| Code | Response                |
+| ---- | ----------------------- |
+| 200  | Single User object      |
+| 400  | Error: Missing username |
+| 400  | Error: Profane username |
+| 403  | Invalid/missing token   |
 
 ## SSO
 
