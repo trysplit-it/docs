@@ -10,8 +10,6 @@ permalink: /about/team
 
 We are team MADOOSE, a group of students dedicated to making college experience easier.
 
-## Leads
-
 ### Justin Waltrip
 **Role(s):** Technical Lead  
 **Bio:** Hi everyone, I'm Justin.  I deal with a little bit of everything but focus on frontend development and full-stack integration.
@@ -32,19 +30,9 @@ We are team MADOOSE, a group of students dedicated to making college experience 
 **Role(s):** Technical Lead  
 **Bio:** Hey everyone! I'm Sara. I've been contributing mainly in frontend development and backend testing, and manage a lot of the non-coding work. I hope we've made your city exploration somewhat easier :)
 
-### Tony Ho
-**Role(s):** Technical Lead  
-**Bio:** Hi everyone, my name name is Tony. Over the course of the project, I'm worked primarily on the backend of our website and setup the basic emailing notification system. 
-
-## Members
-
 ### Jake Rasmussen
 **Role(s):** iOS Developer, Member  
 **Bio:** Hey! My name is Jake Rasmussen, and I am a sophomore. I am working on the iOS development team to help bring Split.it to iPhones. I love working with front-end development, so I am very excited to be on this project!
-
-### Simonne Ponce
-**Role(s):** QA Analyst, iOS Developer, Member  
-**Bio:** Hi! I’m Simonne. I primarily focus on quality assurance and iOS development. I really enjoy bike riding and playing chess during my free time.
 
 ### Steven Simpson
 **Role(s):** Social Media Manager, Member  
